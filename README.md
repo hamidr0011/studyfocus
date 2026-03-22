@@ -57,5 +57,5 @@ The application’s color typography is strictly bounded by universal accessibil
 StudyFocus requires no build pipelines, complex web frameworks, or backend SQL servers. It runs completely offline in any modern HTML5/CSS3 web browser.
 
 1. Clone or download this repository.
-2. Open `studyfocus.html` in your web browser (Chrome, Edge, Safari, Firefox).
+2. Open `index.html` in your web browser (Chrome, Edge, Safari, Firefox).
 3. All tasks, times, and thematic preferences will automatically save to your machine's persistent `localStorage`.
